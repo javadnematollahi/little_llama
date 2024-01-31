@@ -1,0 +1,5 @@
+ai_utils
+llama_index
+pydantic
+pydantic_settings
+setuptools

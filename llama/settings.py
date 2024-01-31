@@ -1,5 +1,4 @@
-from pydantic_settings import SettingsConfigDict, BaseSettings, PydanticBaseSettingsSource
-from ai_utils import CustomizedSettings
+from pydantic_settings import SettingsConfigDict, BaseSettings
 from pydantic import Field
 
 class Settings(BaseSettings):
